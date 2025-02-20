@@ -8,7 +8,8 @@ import os
 
 # Load API key from .env file
 load_dotenv()
-api_key = os.getenv("OPENWEATHER_API_KEY")
+# Load API key securely from secrets.toml
+api_key = st.secrets["OPENWEATHER_API_KEY"]
 
 # Set page config
 st.set_page_config(page_title="Weather Forecast App", layout="wide")
