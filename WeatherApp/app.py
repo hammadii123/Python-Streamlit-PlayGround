@@ -14,9 +14,23 @@ api_key = st.secrets["OPENWEATHER_API_KEY"]
 # Set page config
 st.set_page_config(page_title="Weather Forecast App", layout="wide")
 
+import streamlit as st
+
+# Hide Streamlit's branding (GitHub icon, Fork icon, and Footer)
+hide_streamlit_style = """
+    <style>
+        #MainMenu {visibility: hidden;} /* Hide hamburger menu */
+        footer {visibility: hidden;} /* Hide footer */
+        header {visibility: hidden;} /* Hide header */
+    </style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
+
 # Custom CSS for better UI
 st.markdown("""
     <style>
+            
     .stTextInput>div>div>input {
         color: #4F8BF9;
         font-size: 18px;
