@@ -19,7 +19,7 @@ import streamlit as st
 # Hide Streamlit's branding (GitHub icon, Fork icon, and Footer)
 hide_streamlit_style = """
     <style>
-        #MainMenu {visibility: hidden;} /* Hide hamburger menu */
+        MainMenu {visibility: hidden;} /* Hide hamburger menu */
         footer {visibility: hidden;} /* Hide footer */
         header {visibility: hidden;} /* Hide header */
     </style>
