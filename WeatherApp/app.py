@@ -19,9 +19,11 @@ import streamlit as st
 # Hide Streamlit's branding (GitHub icon, Fork icon, and Footer)
 hide_streamlit_style = """
     <style>
-        MainMenu {visibility: hidden;} /* Hide hamburger menu */
-        footer {visibility: hidden;} /* Hide footer */
-        header {visibility: hidden;} /* Hide header */
+        #MainMenu {visibility: hidden;} /* Hide the hamburger menu */
+        header {visibility: hidden;} /* Hide the top header */
+        footer {visibility: hidden;} /* Hide the footer */
+        .st-emotion-cache-1v0mbdj {display: none;} /* Additional footer container */
+        .st-emotion-cache-z5fcl4 {display: none;} /* Another footer class */
     </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
