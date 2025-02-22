@@ -24,7 +24,7 @@ A simple **Streamlit** app that fetches real-time weather data and a 5-day forec
    ```
 
 ## 🌍 Live Demo
-🔗 [View App](https://type-script-practice-46hg.vercel.app/)
+🔗 [View App](https://weather-app-hammad.streamlit.app/)
 
 
 
