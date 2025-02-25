@@ -11,7 +11,6 @@ A **Streamlit-based AI app** that generates a **7-day meal plan** and provides *
 
 ## 🚀 Run Locally  
 ```bash
-git clone https://github.com/your-username/AI-Diet-Planner.git
-cd AI-Diet-Planner
+git clone https://github.com/hammadii123/Python-Streamlit-PlayGround.git
 pip install streamlit pandas random
 streamlit run main.py
