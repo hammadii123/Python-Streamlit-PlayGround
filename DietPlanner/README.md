@@ -2,7 +2,7 @@
 
 A **Streamlit-based AI app** that generates a **7-day meal plan** and provides **step-by-step exercises** based on weight.  
 
-🔗 **Live Demo:** [Click Here](#) _(Add your Streamlit deployment link)_  
+🔗 **Live Demo:** [Click Here](https://your-own-diet-planner.streamlit.app/) 
 
 ## 📌 Features  
 ✅ Personalized 7-day meal & exercise plan  
