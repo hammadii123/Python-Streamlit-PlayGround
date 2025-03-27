@@ -15,5 +15,5 @@ A **simple and powerful unit converter** built using **Streamlit** and **Pint**.
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/hammadii123/streamlit-unit-converter.git
-cd streamlit-unit-converter
+git clone https://github.com/hammadii123/Python-Streamlit-PlayGround.git
+
