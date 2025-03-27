@@ -44,3 +44,5 @@ if st.button("🔄 Convert"):
     except Exception as e:
         st.error(f"⚠️ Conversion error: {e}")
 
+st.badge("Made by : Hammad Mustafa")
+
