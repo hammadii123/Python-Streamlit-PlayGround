@@ -29,4 +29,3 @@ Each valid rule adds 1 point (max score: 5):
 ## 🧑‍💻 Author
 
 Made by [Hammad Mustafa](https://github.com/hammadii123)
-```
