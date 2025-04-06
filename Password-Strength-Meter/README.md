@@ -2,6 +2,8 @@
 
 A simple Streamlit app to check password strength based on:
 
+🔗 **Live Demo:** [Click Here](https://passwordcheckerhammad.streamlit.app/) 
+
 - ✅ Minimum 8 characters
 - ✅ Upper & Lowercase letters
 - ✅ Numbers
