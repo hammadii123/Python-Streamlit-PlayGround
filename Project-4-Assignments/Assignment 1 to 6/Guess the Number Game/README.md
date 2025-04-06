@@ -14,9 +14,6 @@ A simple and fun **"Guess the Number"** game built using **Python and Streamlit*
 
 ---
 
-## 📦 How to Run
+-## 🔗 Live Demo
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/hammadii123/guess-the-number-streamlit.git
-   cd guess-the-number-streamlit
+👉 [Play the Game Here](https://guessthenumberhammad.streamlit.app/)  
