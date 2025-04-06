@@ -16,4 +16,4 @@ A simple **Rock, Paper, Scissors** game built using **Python and Streamlit**. Yo
 
 ## 🔗 Live Demo
 
-👉 [Play the Game Here](https://your-streamlit-link.streamlit.app)  
+👉 [Play the Game Here](https://rockpaperhammad.streamlit.app/)  
