@@ -1,4 +1,4 @@
-# 🪨📄✂️ Rock Paper Scissors Game (Streamlit)
+# ✂️ Rock Paper Scissors Game (Streamlit)
 
 A simple **Rock, Paper, Scissors** game built using **Python and Streamlit**. You choose rock, paper, or scissors, and the computer picks one randomly. Try to beat the computer!
 

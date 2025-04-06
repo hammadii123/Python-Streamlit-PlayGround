@@ -2,7 +2,7 @@
 import streamlit as st
 import random
 
-st.title("🪨📄✂️ Rock, Paper, Scissors")
+st.title("✂️ Rock, Paper, Scissors")
 
 user_choice = st.selectbox("Choose one:", ["rock", "paper", "scissors"])
 
