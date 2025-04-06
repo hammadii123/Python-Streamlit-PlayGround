@@ -14,6 +14,6 @@ A simple and fun **"Guess the Number"** game built using **Python and Streamlit*
 
 ---
 
--## 🔗 Live Demo
+## 🔗 Live Demo
 
 👉 [Play the Game Here](https://guessthenumberhammad.streamlit.app/)  
