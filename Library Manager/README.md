@@ -6,7 +6,7 @@ A simple and intuitive Personal Library Manager built with **Streamlit**. This t
 
 You can try out the live demo of this project here:
 
-[**Personal Library Manager Live Demo**](your-link-here)
+[**Live Demo**](https://librarymanagerh1.streamlit.app/)
 
 ## Features
 
